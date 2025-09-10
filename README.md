@@ -42,12 +42,6 @@ Sou apaixonado por tecnologia e aprender coisas novas! Ao longo da minha jornada
 
 ---
 
-## 📂 Projetos em Destaque
-
-- Infelizmente, perdi acesso ao meu antigo repositório: [igortriveloni](https://github.com/igortriveloni). Mas sigo criando, aprendendo e compartilhando novos projetos por aqui!
-
----
-
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-triveloni/)
